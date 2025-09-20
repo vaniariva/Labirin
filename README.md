@@ -1,1 +1,1 @@
-# Labirin
+# Game-Labirin
